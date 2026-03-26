@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\openai\resources\beta\threads\runs\steps.py
+# hypothesis_version: 6.151.5
+
+['AsyncSteps', 'OpenAI-Beta', 'Steps', 'after', 'asc', 'assistants=v2', 'before', 'desc', 'limit', 'order']

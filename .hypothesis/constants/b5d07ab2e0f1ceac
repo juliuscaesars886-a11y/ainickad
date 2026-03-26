@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\Downloads\Ainick\ainick-backend-repo\authentication\urls.py
+# hypothesis_version: 6.151.5
+
+['authentication', 'change-password', 'change-password/', 'csrf-token', 'csrf-token/', 'current-user', 'login', 'login/', 'logout', 'logout/', 'me/', 'profile-detail', 'profiles-list', 'profiles/', 'profiles/<str:id>/', 'register', 'register/']

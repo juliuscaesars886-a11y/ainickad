@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\Downloads\Ainick\ainick-backend-repo\communications\migrations\0002_add_broadcast_support.py
+# hypothesis_version: 6.151.5
+
+[255, '0001_initial', 'communications', 'is_broadcast', 'message', 'messages_is_broa_idx', 'received_messages', 'recipient', 'sent_at', 'subject']

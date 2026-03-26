@@ -1,0 +1,44 @@
+# Render Backend-Only Deployment
+# Ignore ALL frontend files and directories
+
+# Root level frontend files
+/package.json
+/package-lock.json
+/yarn.lock
+/tsconfig.json
+/tsconfig.app.json
+/tsconfig.node.json
+/vite.config.ts
+/index.html
+/postcss.config.js
+/tailwind.config.ts
+/components.json
+/eslint.config.js
+
+# Frontend directories
+/src/
+/public/
+/dist/
+/node_modules/
+
+# Other project directories (not backend)
+/ainickfrontend-m-develop/
+/Ainickbackend-m-develop/Ainickbackend-m-develop/ainick-governance-hub-main/
+
+# Environment files (backend has its own)
+/.env
+/.env.example
+
+# Documentation (not needed for build)
+/DEPLOYMENT.md
+/NETLIFY_RENDER_CONNECTION_GUIDE.md
+/netlify-setup.md
+/README.md
+
+# Git and IDE
+/.git/
+/.vscode/
+/.idea/
+
+# Only include backend directory
+!/Ainickbackend-m-develop/Ainickbackend-m-develop/backend/

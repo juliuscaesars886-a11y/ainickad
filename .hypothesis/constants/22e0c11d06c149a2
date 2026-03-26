@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\Downloads\Ainick\ainick-backend-repo\companies\migrations\0003_company_risk_category_company_risk_level.py
+# hypothesis_version: 6.151.5
+
+[100, '0002_director', 'Level 1 - Low Risk', 'Level 3 - High Risk', 'companies', 'company', 'level_1', 'level_2', 'level_3', 'risk_category', 'risk_level']

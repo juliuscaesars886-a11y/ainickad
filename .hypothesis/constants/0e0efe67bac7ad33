@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\Downloads\Ainick\ainick-backend-repo\companies\views.py
+# hypothesis_version: 6.151.5
+
+['-appointment_date', 'appointment_date', 'company', 'company_id', 'contact_email', 'create', 'created_at', 'error', 'get', 'is_active', 'list', 'name', 'partial', 'partial_update', 'position', 'registration_number', 'tax_id', 'update']

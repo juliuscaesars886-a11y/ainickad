@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\Downloads\Ainick\ainick-backend-repo\documents\migrations\0004_remove_document_documents_company_785009_idx_and_more.py
+# hypothesis_version: 6.151.5
+
+['Certificate', 'Certified', 'Commissioned', 'Contract', 'Correspondence', 'Invoice', 'Notarised', 'Other', 'Received', 'Report', 'Sealed', 'Sent', 'category', 'certificate', 'certified', 'commissioned', 'contract', 'correspondence', 'document', 'documents', 'invoice', 'notarised', 'other', 'received', 'report', 'sealed', 'sent']

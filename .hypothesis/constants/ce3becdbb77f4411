@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\openai\resources\chat\completions.py
+# hypothesis_version: 6.151.5
+
+['/chat/completions', 'AsyncCompletions', 'Completions', 'auto', 'default', 'frequency_penalty', 'function_call', 'functions', 'logit_bias', 'logprobs', 'max_tokens', 'messages', 'model', 'n', 'parallel_tool_calls', 'presence_penalty', 'response_format', 'seed', 'service_tier', 'stop', 'stream', 'stream_options', 'temperature', 'tool_choice', 'tools', 'top_logprobs', 'top_p', 'user']

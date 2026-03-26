@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\Downloads\Ainick\ainick-backend-repo\workflows\services\task_service.py
+# hypothesis_version: 6.151.5
+
+['/tasks', 'Company is required', 'N/A', 'New Task Assigned', 'Task Completed', 'Task Marked Complete', 'Task Started', 'approval_required', 'approved', 'approved_at', 'approved_by', 'assign_company', 'assigned', 'assigned_by', 'assignee_id', 'company', 'company_assigned_at', 'company_assigned_by', 'company_assigned_to', 'company_id', 'completed', 'completed_by', 'completed_by_admin', 'completion_notes', 'in_progress', 'is_admin', 'is_super_admin', 'link', 'notes', 'pending_approval', 'reason', 'reassigned', 'rejected', 'rejected_at', 'rejected_by', 'rejection_reason', 'staff', 'started_by', 'status', 'task', 'task_approved', 'task_assigned', 'task_completed', 'task_id', 'task_rejected', 'task_started', 'task_title', 'user_id']

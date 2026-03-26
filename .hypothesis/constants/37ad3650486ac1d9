@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\Downloads\Ainick\ainick-backend-repo\communications\migrations\0006_assistantmemory.py
+# hypothesis_version: 6.151.5
+
+[100, 'Assistant Memories', 'Assistant Memory', 'AssistantMemory', 'Balanced', 'Casual', 'Formal', 'ID', 'assistant_memory', 'balanced', 'casual', 'communications', 'created_at', 'db_table', 'formal', 'id', 'last_topics', 'preferred_name', 'role_context', 'tone_preference', 'updated_at', 'user', 'verbose_name', 'verbose_name_plural']

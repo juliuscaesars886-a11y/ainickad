@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\Downloads\Ainick\ainick-backend-repo\workflows\services\request_service.py
+# hypothesis_version: 6.151.5
+
+['/approvals', 'Company is required', 'admin', 'company', 'company_id', 'draft', 'is_admin', 'is_super_admin', 'link', 'pending', 'request', 'request_id', 'request_type', 'status', 'submitted_by', 'super_admin', 'user_id']

@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\Downloads\Ainick\ainick-backend-repo\workflows\migrations\0002_request_approval_request_requests_company_c5487f_idx_and_more.py
+# hypothesis_version: 6.151.5
+
+['-created_at', '0001_initial', 'Approval', 'Approved', 'Cancelled', 'Document Approval', 'Draft', 'Leave Request', 'Other', 'Pending', 'Petty Cash', 'Purchase Request', 'Rejected', 'Request', 'approval', 'approvals', 'approved', 'approved_at', 'approver', 'authentication', 'cancelled', 'comments', 'companies', 'companies.company', 'company', 'completion_date', 'created_at', 'data', 'db_table', 'document_approval', 'draft', 'id', 'leave', 'metadata', 'ordering', 'other', 'pending', 'petty_cash', 'purchase', 'rejected', 'request', 'request_type', 'requester', 'requests', 'status', 'step_number', 'submission_date', 'updated_at', 'workflows', 'workflows.request']

@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\openai\types\beta\thread_deleted.py
+# hypothesis_version: 6.151.5
+
+['ThreadDeleted', 'thread.deleted']

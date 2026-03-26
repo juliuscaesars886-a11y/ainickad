@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\django\contrib\postgres\forms\ranges.py
+# hypothesis_version: 6.151.5
+
+['BaseRangeField', 'DateRangeField', 'DateTimeRangeField', 'DecimalRangeField', 'Enter two numbers.', 'HiddenRangeWidget', 'IntegerRangeField', 'RangeWidget', 'bound_ordering', 'bounds', 'default_bounds', 'fields', 'invalid', 'require_all_fields', 'required', 'widget']

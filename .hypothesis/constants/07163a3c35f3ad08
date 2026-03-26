@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\openai\resources\beta\__init__.py
+# hypothesis_version: 6.151.5
+
+['Assistants', 'AsyncAssistants', 'AsyncBeta', 'AsyncThreads', 'AsyncVectorStores', 'Beta', 'BetaWithRawResponse', 'Threads', 'VectorStores']

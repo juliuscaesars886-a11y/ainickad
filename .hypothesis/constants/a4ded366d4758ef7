@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\django_filters\conf.py
+# hypothesis_version: 6.151.5
+
+['---------', 'DEFAULT_LOOKUP_EXPR', 'DISABLE_HELP_TEXT', 'EMPTY_CHOICE_LABEL', 'FILTERS_', 'FILTERS_%s', 'NULL_CHOICE_LABEL', 'NULL_CHOICE_VALUE', 'VERBOSE_LOOKUPS', 'contained_by', 'contains', 'date', 'day', 'ends with', 'endswith', 'exact', 'gt', 'gte', 'has any keys', 'has key', 'has keys', 'has_any_keys', 'has_key', 'has_keys', 'hour', 'icontains', 'iendswith', 'iexact', 'in', 'iregex', 'is contained by', 'is greater than', 'is in', 'is in range', 'is less than', 'is null', 'isnull', 'istartswith', 'lt', 'lte', 'matches regex', 'minute', 'month', 'null', 'overlap', 'overlaps', 'range', 'regex', 'search', 'second', 'starts with', 'startswith', 'trigram_similar', 'week day', 'week_day', 'year']

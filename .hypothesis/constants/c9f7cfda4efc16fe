@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\Downloads\Ainick\ainick-backend-repo\workflows\serializers.py
+# hypothesis_version: 6.151.5
+
+['approvals', 'approved_at', 'approver', 'approver.full_name', 'approver_name', 'assignee', 'assignee.full_name', 'assignee_name', 'comments', 'company', 'company.name', 'company_name', 'completed_at', 'completion_date', 'created_at', 'creator', 'creator.full_name', 'creator_name', 'data', 'description', 'due_date', 'id', 'is_approved', 'is_completed', 'is_overdue', 'is_pending', 'is_rejected', 'is_urgent', 'metadata', 'priority', 'request', 'request_type', 'request_type_display', 'requester', 'requester.full_name', 'requester_name', 'status', 'step_number', 'submission_date', 'tags', 'title', 'updated_at']

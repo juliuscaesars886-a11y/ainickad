@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\Downloads\Ainick\ainick-backend-repo\companies\migrations\0002_director.py
+# hypothesis_version: 6.151.5
+
+[100, 255, '-appointment_date', '0001_initial', 'Director', 'Directors', 'appointment_date', 'companies', 'companies.company', 'company', 'created_at', 'db_table', 'directors', 'id', 'indexes', 'is_active', 'metadata', 'name', 'ordering', 'position', 'resignation_date', 'updated_at', 'verbose_name_plural']

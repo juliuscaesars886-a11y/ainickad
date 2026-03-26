@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\openai\lib\_pydantic.py
+# hypothesis_version: 6.151.5
+
+['$defs', 'additionalProperties', 'allOf', 'anyOf', 'items', 'object', 'properties', 'required', 'type']

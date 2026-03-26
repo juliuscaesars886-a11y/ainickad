@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\Downloads\Ainick\ainick-backend-repo\communications\migrations\0005_classificationlog.py
+# hypothesis_version: 6.151.5
+
+['-timestamp', '0004_featureupdate', 'ClassificationLog', 'Company Data', 'Company_Data', 'Correct', 'Feature Guide', 'Feature_Guide', 'Incorrect', 'Kenya Governance', 'Kenya_Governance', 'Navigation', 'No Feedback', 'Partially Correct', 'Tip', 'Web Search', 'Web_Search', 'all_scores', 'classification_logs', 'classification_type', 'communications', 'confidence_score', 'context_data', 'correct', 'db_table', 'id', 'incorrect', 'indexes', 'message', 'none', 'ordering', 'partial', 'processing_time_ms', 'timestamp', 'user', 'user_feedback']

@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\openai\_response.py
+# hypothesis_version: 6.151.5
+
+['*', ';', 'APIResponse[Any]', 'P', 'R', '_APIResponseT', '_AsyncAPIResponseT', '_T', 'application/json', 'content-type', 'extra_headers', 'raw', 'stream', 'tuple[type, ...]', 'wb', 'x-request-id']

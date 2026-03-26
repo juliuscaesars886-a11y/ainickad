@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\Downloads\Ainick\ainick-backend-repo\communications\admin.py
+# hypothesis_version: 6.151.5
+
+['Feature Information', 'Metadata', 'Status', 'category', 'classes', 'collapse', 'content', 'created_at', 'date', 'description', 'feature_name', 'fields', 'id', 'is_active', 'is_broadcast', 'is_read', 'message', 'notification_type', 'read_at', 'recipient', 'recipient__email', 'sender', 'sender__email', 'sent_at', 'subject', 'title', 'user', 'user__email']

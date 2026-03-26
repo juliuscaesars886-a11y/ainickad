@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\Downloads\Ainick\ainick-backend-repo\authentication\migrations\0002_userprofile_last_login_userprofile_password_and_more.py
+# hypothesis_version: 6.151.5
+
+[128, '0001_initial', 'Accountant', 'Admin', 'Staff', 'Super Admin', 'accountant', 'admin', 'authentication', 'last_login', 'password', 'role', 'staff', 'super_admin', 'userprofile']

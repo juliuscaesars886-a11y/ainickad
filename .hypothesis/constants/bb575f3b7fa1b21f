@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\Downloads\Ainick\ainick-backend-repo\governance_hub\urls.py
+# hypothesis_version: 6.151.5
+
+['admin/', 'ainick-backend', 'api/', 'api/auth/', 'api/companies/', 'api/directors/', 'api/docs/', 'api/health/', 'api/redoc/', 'api/schema/', 'api/staff/', 'authentication.urls', 'communications.urls', 'companies.urls', 'documents.urls', 'financial.urls', 'health-check', 'healthy', 'redoc', 'schema', 'service', 'staff.urls', 'status', 'swagger-ui', 'workflows.urls']

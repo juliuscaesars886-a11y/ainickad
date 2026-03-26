@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\Downloads\Ainick\ainick-backend-repo\staff\serializers.py
+# hypothesis_version: 6.151.5
+
+['address', 'allow_null', 'company', 'company.name', 'company_name', 'created_at', 'department', 'email', 'employment_status', 'first_name', 'full_name', 'hire_date', 'id', 'is_active', 'job_title', 'last_name', 'metadata', 'phone', 'required', 'salary', 'staff_number', 'termination_date', 'updated_at', 'user', 'user_profile']

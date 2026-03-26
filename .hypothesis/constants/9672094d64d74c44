@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\Downloads\Ainick\ainick-backend-repo\documents\serializers.py
+# hypothesis_version: 6.151.5
+
+[1024, 'application/msword', 'application/pdf', 'category', 'company', 'company.name', 'company_name', 'created_at', 'description', 'file', 'file_extension', 'file_name', 'file_path', 'file_size', 'id', 'image/gif', 'image/jpeg', 'image/png', 'is_active', 'is_archived', 'last_used', 'metadata', 'mime_type', 'name', 'other', 'required', 'size_mb', 'subfolder', 'subfolder_display', 'text/plain', 'title', 'updated_at', 'uploaded_by', 'uploaded_by_name', 'usage_count']

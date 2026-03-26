@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\django\contrib\auth\middleware.py
+# hypothesis_version: 6.151.5
+
+['REMOTE_USER', '_acached_user', '_cached_user', 'session', 'user']

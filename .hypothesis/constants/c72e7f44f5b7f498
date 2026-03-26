@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\drf_spectacular\extensions.py
+# hypothesis_version: 6.151.5
+
+['AutoSchema', 'OpenApiViewExtension', 'Type[APIView]', 'cls']

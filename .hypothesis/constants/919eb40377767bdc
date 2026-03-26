@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\openai\resources\images.py
+# hypothesis_version: 6.151.5
+
+['/images/edits', '/images/generations', '/images/variations', '1024x1024', '1024x1792', '1792x1024', '256x256', '512x512', 'AsyncImages', 'Content-Type', 'Images', 'b64_json', 'hd', 'image', 'mask', 'model', 'multipart/form-data', 'n', 'natural', 'prompt', 'quality', 'response_format', 'size', 'standard', 'style', 'url', 'user', 'vivid']

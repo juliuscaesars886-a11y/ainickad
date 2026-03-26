@@ -1,0 +1,302 @@
+[
+  {
+    "message": "How do I create a new company?",
+    "expected_type": "Navigation",
+    "context": {}
+  },
+  {
+    "message": "Where is the staff management section?",
+    "expected_type": "Navigation",
+    "context": {}
+  },
+  {
+    "message": "How to upload documents to the system?",
+    "expected_type": "Navigation",
+    "context": {}
+  },
+  {
+    "message": "Where can I find the dashboard?",
+    "expected_type": "Navigation",
+    "context": {}
+  },
+  {
+    "message": "How do I navigate to the compliance section?",
+    "expected_type": "Navigation",
+    "context": {}
+  },
+  {
+    "message": "Where is the reporting feature?",
+    "expected_type": "Navigation",
+    "context": {}
+  },
+  {
+    "message": "How can I access my company profile?",
+    "expected_type": "Navigation",
+    "context": {}
+  },
+  {
+    "message": "Where can I view pending actions?",
+    "expected_type": "Navigation",
+    "context": {}
+  },
+  {
+    "message": "How do I find the user management page?",
+    "expected_type": "Navigation",
+    "context": {}
+  },
+  {
+    "message": "Where is the settings menu?",
+    "expected_type": "Navigation",
+    "context": {}
+  },
+  {
+    "message": "What does the compliance score feature do?",
+    "expected_type": "Feature_Guide",
+    "context": {}
+  },
+  {
+    "message": "How does the document management system work?",
+    "expected_type": "Feature_Guide",
+    "context": {}
+  },
+  {
+    "message": "What is the purpose of the health score?",
+    "expected_type": "Feature_Guide",
+    "context": {}
+  },
+  {
+    "message": "How does the annual return filing process work?",
+    "expected_type": "Feature_Guide",
+    "context": {}
+  },
+  {
+    "message": "What are the features of the board meeting module?",
+    "expected_type": "Feature_Guide",
+    "context": {}
+  },
+  {
+    "message": "How does the user role system work?",
+    "expected_type": "Feature_Guide",
+    "context": {}
+  },
+  {
+    "message": "What is the purpose of pending actions?",
+    "expected_type": "Feature_Guide",
+    "context": {}
+  },
+  {
+    "message": "How does the notification system function?",
+    "expected_type": "Feature_Guide",
+    "context": {}
+  },
+  {
+    "message": "What are the capabilities of the reporting tool?",
+    "expected_type": "Feature_Guide",
+    "context": {}
+  },
+  {
+    "message": "How does the document versioning work?",
+    "expected_type": "Feature_Guide",
+    "context": {}
+  },
+  {
+    "message": "What is my company's compliance score?",
+    "expected_type": "Company_Data",
+    "context": {}
+  },
+  {
+    "message": "Who are the directors of my company?",
+    "expected_type": "Company_Data",
+    "context": {}
+  },
+  {
+    "message": "What are the pending actions for our company?",
+    "expected_type": "Company_Data",
+    "context": {}
+  },
+  {
+    "message": "What is our company's health score?",
+    "expected_type": "Company_Data",
+    "context": {}
+  },
+  {
+    "message": "When is our next annual return deadline?",
+    "expected_type": "Company_Data",
+    "context": {}
+  },
+  {
+    "message": "What documents have we uploaded?",
+    "expected_type": "Company_Data",
+    "context": {}
+  },
+  {
+    "message": "Who are the shareholders in our company?",
+    "expected_type": "Company_Data",
+    "context": {}
+  },
+  {
+    "message": "What is our company's registration number?",
+    "expected_type": "Company_Data",
+    "context": {}
+  },
+  {
+    "message": "What is the beneficial ownership structure?",
+    "expected_type": "Company_Data",
+    "context": {}
+  },
+  {
+    "message": "What are the upcoming compliance deadlines?",
+    "expected_type": "Company_Data",
+    "context": {}
+  },
+  {
+    "message": "What are the CMA requirements for annual returns?",
+    "expected_type": "Kenya_Governance",
+    "context": {}
+  },
+  {
+    "message": "What does the Companies Act say about director disclosure?",
+    "expected_type": "Kenya_Governance",
+    "context": {}
+  },
+  {
+    "message": "What is the BRS filing deadline?",
+    "expected_type": "Kenya_Governance",
+    "context": {}
+  },
+  {
+    "message": "What are the NSE listing requirements?",
+    "expected_type": "Kenya_Governance",
+    "context": {}
+  },
+  {
+    "message": "What are the KRA tax compliance requirements?",
+    "expected_type": "Kenya_Governance",
+    "context": {}
+  },
+  {
+    "message": "What is the process for beneficial ownership disclosure?",
+    "expected_type": "Kenya_Governance",
+    "context": {}
+  },
+  {
+    "message": "What are the penalties for late filing?",
+    "expected_type": "Kenya_Governance",
+    "context": {}
+  },
+  {
+    "message": "What is the CR12 form used for?",
+    "expected_type": "Kenya_Governance",
+    "context": {}
+  },
+  {
+    "message": "What are the requirements for AGM meetings?",
+    "expected_type": "Kenya_Governance",
+    "context": {}
+  },
+  {
+    "message": "What is the process for director appointment?",
+    "expected_type": "Kenya_Governance",
+    "context": {}
+  },
+  {
+    "message": "What is the capital of Kenya?",
+    "expected_type": "Web_Search",
+    "context": {}
+  },
+  {
+    "message": "Who is the current president of Kenya?",
+    "expected_type": "Web_Search",
+    "context": {}
+  },
+  {
+    "message": "What is the weather like in Nairobi?",
+    "expected_type": "Web_Search",
+    "context": {}
+  },
+  {
+    "message": "What are the latest news headlines?",
+    "expected_type": "Web_Search",
+    "context": {}
+  },
+  {
+    "message": "How does cryptocurrency work?",
+    "expected_type": "Web_Search",
+    "context": {}
+  },
+  {
+    "message": "What is the history of the stock market?",
+    "expected_type": "Web_Search",
+    "context": {}
+  },
+  {
+    "message": "What are the best practices for project management?",
+    "expected_type": "Web_Search",
+    "context": {}
+  },
+  {
+    "message": "How do I learn Python programming?",
+    "expected_type": "Web_Search",
+    "context": {}
+  },
+  {
+    "message": "What is artificial intelligence?",
+    "expected_type": "Web_Search",
+    "context": {}
+  },
+  {
+    "message": "What are the benefits of cloud computing?",
+    "expected_type": "Web_Search",
+    "context": {}
+  },
+  {
+    "message": "I'm not sure what I need",
+    "expected_type": "Tip",
+    "context": {}
+  },
+  {
+    "message": "Can you help me?",
+    "expected_type": "Tip",
+    "context": {}
+  },
+  {
+    "message": "I'm confused about something",
+    "expected_type": "Tip",
+    "context": {}
+  },
+  {
+    "message": "I don't understand this",
+    "expected_type": "Tip",
+    "context": {}
+  },
+  {
+    "message": "What should I do?",
+    "expected_type": "Tip",
+    "context": {}
+  },
+  {
+    "message": "I'm lost",
+    "expected_type": "Tip",
+    "context": {}
+  },
+  {
+    "message": "Can you clarify?",
+    "expected_type": "Tip",
+    "context": {}
+  },
+  {
+    "message": "I need help",
+    "expected_type": "Tip",
+    "context": {}
+  },
+  {
+    "message": "What does this mean?",
+    "expected_type": "Tip",
+    "context": {}
+  },
+  {
+    "message": "I'm not sure",
+    "expected_type": "Tip",
+    "context": {}
+  }
+]

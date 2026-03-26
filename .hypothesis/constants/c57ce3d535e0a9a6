@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\rest_framework\authtoken\migrations\0001_initial.py
+# hypothesis_version: 6.151.5
+
+['Token', 'auth_token', 'created', 'key', 'user']

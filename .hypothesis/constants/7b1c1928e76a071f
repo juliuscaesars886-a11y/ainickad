@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\django\contrib\auth\base_user.py
+# hypothesis_version: 6.151.5
+
+[128, '@', 'NFKC', 'email', 'last login', 'password', 'sha256']

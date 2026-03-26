@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\Downloads\Ainick\ainick-backend-repo\documents\migrations\0002_template.py
+# hypothesis_version: 6.151.5
+
+[255, 500, '-last_used', '-usage_count', '0001_initial', 'Annual Return', 'Board Resolution', 'Contract', 'Form', 'Letter', 'Other', 'Report', 'Template', 'annual-return', 'board-resolution', 'category', 'contract', 'created_at', 'db_table', 'description', 'documents', 'file_name', 'file_path', 'file_size', 'form', 'id', 'indexes', 'is_active', 'last_used', 'letter', 'name', 'ordering', 'other', 'report', 'templates', 'updated_at', 'usage_count']

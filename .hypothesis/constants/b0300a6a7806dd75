@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\Downloads\Ainick\ainick-backend-repo\financial\views.py
+# hypothesis_version: 6.151.5
+
+['-expense_date', '-issue_date', '-request_date', 'amount', 'approved', 'category', 'client_email', 'client_name', 'company', 'create', 'created_at', 'description', 'disbursed', 'draft', 'due_date', 'employee', 'error', 'expense_date', 'expense_number', 'invoice_number', 'invoice_type', 'issue_date', 'list', 'notes', 'paid', 'partial', 'partial_update', 'pending', 'post', 'purpose', 'rejected', 'request_date', 'requester', 'status', 'total_amount', 'update']

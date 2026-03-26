@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\openai\types\upload_create_params.py
+# hypothesis_version: 6.151.5
+
+['UploadCreateParams', 'assistants', 'batch', 'fine-tune', 'vision']

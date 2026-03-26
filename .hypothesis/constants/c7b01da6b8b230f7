@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\django_filters\filterset.py
+# hypothesis_version: 6.151.5
+
+['%s%sFilter', '%sFilterSet', '%sForm', ', ', 'Filter', 'Meta', '_form', '_meta', '_qs', 'choices', 'declared_filters', 'exact', 'exclude', 'extra', 'field_name', 'fields', 'filter_class', 'filter_overrides', 'form', 'get_limit_choices_to', 'ignore', 'in', 'isnull', 'lookup_expr', 'model', 'null_label', 'queryset', 'raise', 'range', 'to_field_name', 'warn']

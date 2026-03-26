@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\Downloads\Ainick\ainick-backend-repo\staff\views.py
+# hypothesis_version: 6.151.5
+
+['active', 'company', 'create', 'created_at', 'department', 'email', 'employment_status', 'error', 'first_name', 'get', 'hire_date', 'job_title', 'last_name', 'list', 'partial', 'partial_update', 'staff_number', 'update']

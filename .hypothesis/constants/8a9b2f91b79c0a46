@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\Downloads\Ainick\ainick-backend-repo\staff\migrations\0001_initial.py
+# hypothesis_version: 6.151.5
+
+[100, 254, '0.00', '0001_initial', 'Active', 'On Leave', 'Staff', 'Suspended', 'Terminated', 'active', 'address', 'authentication', 'companies', 'companies.company', 'company', 'created_at', 'db_table', 'department', 'email', 'employees', 'employment_status', 'first_name', 'hire_date', 'id', 'indexes', 'job_title', 'last_name', 'metadata', 'on_leave', 'ordering', 'phone', 'salary', 'staff', 'staff_members', 'staff_number', 'suspended', 'terminated', 'termination_date', 'unique_staff_number', 'updated_at', 'user']

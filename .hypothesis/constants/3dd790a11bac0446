@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\Downloads\Ainick\ainick-backend-repo\communications\permission_helpers.py
+# hypothesis_version: 6.151.5
+
+['admin', 'assigned_to', 'company', 'company_admin', 'company_id', 'created_by', 'staff', 'super_admin', 'superadmin']

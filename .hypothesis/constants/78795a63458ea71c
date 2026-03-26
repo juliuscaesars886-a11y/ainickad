@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\rest_framework\utils\mediatypes.py
+# hypothesis_version: 6.151.5
+
+['%s/%s', '*', '/', '; %s=%s', 'q']

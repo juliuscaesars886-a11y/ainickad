@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\Downloads\Ainick\ainick-backend-repo\communications\migrations\0001_initial.py
+# hypothesis_version: 6.151.5
+
+[255, '-created_at', '-sent_at', '0001_initial', 'Approval Required', 'Deadline Approaching', 'Document Shared', 'Expense Approved', 'Expense Rejected', 'Message', 'Message Received', 'Notification', 'Petty Cash Approved', 'Petty Cash Rejected', 'Status Changed', 'Task Assigned', 'approval_required', 'authentication', 'content', 'created_at', 'db_table', 'deadline_approaching', 'document_shared', 'expense_approved', 'expense_rejected', 'id', 'indexes', 'is_read', 'message', 'message_received', 'messages', 'metadata', 'notification_type', 'notifications', 'ordering', 'parent_message', 'petty_cash_approved', 'petty_cash_rejected', 'read_at', 'received_messages', 'recipient', 'related_entity_id', 'related_entity_type', 'replies', 'sender', 'sent_at', 'sent_messages', 'status_changed', 'subject', 'task_assigned', 'title', 'user']

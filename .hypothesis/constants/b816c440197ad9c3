@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\Downloads\Ainick\ainick-backend-repo\financial\migrations\0002_pettycashrequest.py
+# hypothesis_version: 6.151.5
+
+['-request_date', '0.01', '0001_initial', 'Approved', 'Disbursed', 'Draft', 'Pending', 'PettyCashRequest', 'Rejected', 'amount', 'approval_date', 'approved', 'approved_petty_cash', 'approver', 'authentication', 'companies', 'companies.company', 'company', 'created_at', 'db_table', 'disbursed', 'disbursement_date', 'draft', 'financial', 'id', 'indexes', 'metadata', 'notes', 'ordering', 'pending', 'petty_cash_requests', 'purpose', 'rejected', 'request_date', 'requester', 'status', 'updated_at']

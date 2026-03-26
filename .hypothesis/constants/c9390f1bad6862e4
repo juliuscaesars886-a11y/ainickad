@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\django\template\library.py
+# hypothesis_version: 6.151.5
+
+["'%s'", ', ', 'as', 'context', 'csrf_token', 'expects_localtime', 'is_safe', 'needs_autoescape', 'template']

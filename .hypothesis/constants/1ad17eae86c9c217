@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\Downloads\Ainick\ainick-backend-repo\authentication\serializers.py
+# hypothesis_version: 6.151.5
+
+['avatar_url', 'can_approve', 'company', 'created_at', 'email', 'full_name', 'get_role_display', 'id', 'is_accountant', 'is_active', 'is_admin', 'is_super_admin', 'metadata', 'role', 'role_display', 'staff', 'temp_password', 'updated_at']

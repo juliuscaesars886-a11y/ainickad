@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\Downloads\Ainick\ainick-backend-repo\workflows\services\approval_service.py
+# hypothesis_version: 6.151.5
+
+['/requests', 'approval_id', 'approved', 'approvedAt', 'approvedBy', 'approved_by', 'comments', 'link', 'pending', 'rejected', 'rejectedAt', 'rejectedBy', 'rejected_by', 'request', 'request_id', 'request_type', 'status', 'user_id']

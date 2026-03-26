@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\Downloads\Ainick\ainick-backend-repo\communications\migrations\0004_featureupdate.py
+# hypothesis_version: 6.151.5
+
+[200, '-date', 'Bug Fix', 'Documentation', 'FeatureUpdate', 'Improvement', 'New Feature', 'bug_fix', 'category', 'communications', 'created_at', 'date', 'db_table', 'description', 'documentation', 'feature_name', 'feature_updates', 'id', 'improvement', 'indexes', 'is_active', 'new_feature', 'ordering']

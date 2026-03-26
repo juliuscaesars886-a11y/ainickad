@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\Downloads\Ainick\ainick-backend-repo\financial\models.py
+# hypothesis_version: 6.151.5
+
+[100, 255, '-expense_date', '-issue_date', '-request_date', '0.00', '0.01', 'Approved', 'Cancelled', 'Disbursed', 'Draft', 'Overdue', 'Paid', 'Payable', 'Pending', 'Receivable', 'Rejected', 'Sent', 'approved', 'approved_expenses', 'approved_petty_cash', 'cancelled', 'companies.Company', 'company', 'created_invoices', 'disbursed', 'documents.Document', 'draft', 'due_date', 'employee', 'expense_number', 'expenses', 'id', 'invoice_line_items', 'invoice_number', 'invoice_type', 'invoices', 'line_items', 'overdue', 'paid', 'payable', 'pending', 'petty_cash_requests', 'receivable', 'rejected', 'request_date', 'requester', 'sent', 'staff.Staff', 'status']

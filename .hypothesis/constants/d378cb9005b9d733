@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\Downloads\Ainick\ainick-backend-repo\authentication\models.py
+# hypothesis_version: 6.151.5
+
+[128, 255, '-created_at', 'Accountant', 'Admin', 'Staff', 'Super Admin', 'accountant', 'admin', 'companies.Company', 'company', 'email', 'is_active', 'role', 'staff', 'super_admin', 'user_profiles', 'users']

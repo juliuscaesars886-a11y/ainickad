@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\openai\resources\embeddings.py
+# hypothesis_version: 6.151.5
+
+['/embeddings', 'AsyncEmbeddings', 'Embeddings', 'base64', 'dimensions', 'encoding_format', 'float', 'float32', 'input', 'model', 'user']

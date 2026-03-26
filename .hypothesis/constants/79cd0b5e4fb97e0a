@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\Downloads\Ainick\ainick-backend-repo\financial\serializers.py
+# hypothesis_version: 6.151.5
+
+['0.01', 'amount', 'approval_date', 'approved_at', 'approved_by', 'approved_by_name', 'approver', 'approver.full_name', 'approver_name', 'category', 'client_address', 'client_email', 'client_name', 'company', 'company.name', 'company_name', 'created_at', 'created_by', 'created_by.full_name', 'created_by_name', 'description', 'disbursement_date', 'due_date', 'employee', 'employee.full_name', 'employee_name', 'expense_date', 'expense_number', 'id', 'invoice_number', 'invoice_type', 'is_approved', 'is_disbursed', 'is_overdue', 'is_paid', 'is_pending', 'issue_date', 'line_items', 'metadata', 'notes', 'paid_date', 'purpose', 'quantity', 'receipt_document', 'request_date', 'requester', 'requester.full_name', 'requester_name', 'status', 'subtotal', 'tax_amount', 'total_amount', 'unit_price', 'updated_at']

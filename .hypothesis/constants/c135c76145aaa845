@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\openai\types\fine_tuning\job_create_params.py
+# hypothesis_version: 6.151.5
+
+['Hyperparameters', 'Integration', 'IntegrationWandb', 'JobCreateParams', 'auto', 'babbage-002', 'davinci-002', 'gpt-3.5-turbo', 'gpt-4o-mini', 'wandb']

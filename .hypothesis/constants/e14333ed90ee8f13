@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\django_filters\fields.py
+# hypothesis_version: 6.151.5
+
+['CSV%s', 'Lookup', 'Select a lookup.', 'empty_label', 'help_text', 'invalid_values', 'iso-8601', 'lookup_expr', 'lookup_required', 'null_label', 'null_value', 'required', 'value', 'widget']

@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\django\forms\forms.py
+# hypothesis_version: 6.151.5
+
+['%s-%s', ', ', ':', ';', 'BaseForm', 'Form', 'Unknown', 'bound', 'clean_%s', 'cls', 'declared_fields', 'django/forms/p.html', 'django/forms/ul.html', 'error', 'error_dict', 'errors', 'fields', 'form', 'hidden_fields', 'id_%s', 'initial-%s', 'name', 'nonfield', 'valid']

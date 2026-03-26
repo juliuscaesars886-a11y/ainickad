@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\Downloads\Ainick\ainick-backend-repo\authentication\views.py
+# hypothesis_version: 6.151.5
+
+[200, 201, 204, 'Account is inactive', 'GET', 'Invalid data', 'Login failed', 'Login successful', 'Logout current user', 'Logout failed', 'Logout successful', 'PATCH', 'POST', 'Register a new user', 'Registration failed', 'User not found', 'csrfToken', 'details', 'email', 'error', 'full_name', 'id', 'message', 'new_password', 'password', 'role', 'staff', 'token', 'user', 'user_id']

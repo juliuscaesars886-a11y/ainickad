@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\django\db\__init__.py
+# hypothesis_version: 6.151.5
+
+['DEFAULT_DB_ALIAS', 'DataError', 'DatabaseError', 'Error', 'IntegrityError', 'InterfaceError', 'InternalError', 'NotSupportedError', 'OperationalError', 'ProgrammingError', 'connection', 'connections', 'router']

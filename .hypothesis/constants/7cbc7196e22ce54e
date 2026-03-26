@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\sqlparse\filters\right_margin.py
+# hypothesis_version: 6.151.5
+
+['\n{}', '^ +']

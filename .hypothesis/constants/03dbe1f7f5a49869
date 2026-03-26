@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\django_filters\rest_framework\backends.py
+# hypothesis_version: 6.151.5
+
+['Meta', 'data', 'filter', 'filterset_class', 'filterset_fields', 'queryset', 'request']

@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\django\contrib\sessions\backends\base.py
+# hypothesis_version: 6.151.5
+
+[86400, '_session_expiry', 'expiry', 'modification', 'testcookie', 'worked']

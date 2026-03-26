@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\django\contrib\postgres\fields\hstore.py
+# hypothesis_version: 6.151.5
+
+['(%s -> %%s)', 'HStoreField', 'akeys', 'avals', 'dict', 'form_class', 'hstore', 'key', 'keys', 'not_a_string', 'values', '{}']

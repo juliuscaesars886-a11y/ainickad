@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\Downloads\Ainick\ainick-backend-repo\authentication\migrations\0003_userprofile_temp_password.py
+# hypothesis_version: 6.151.5
+
+[255, 'authentication', 'temp_password', 'userprofile']

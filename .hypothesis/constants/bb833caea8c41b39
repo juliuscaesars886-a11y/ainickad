@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\Downloads\Ainick\ainick-backend-repo\companies\admin.py
+# hypothesis_version: 6.151.5
+
+['Branding', 'Company Information', 'Contact Details', 'Settings', 'Timestamps', 'address', 'classes', 'collapse', 'contact_email', 'contact_phone', 'created_at', 'fields', 'id', 'is_active', 'logo_url', 'name', 'registration_number', 'settings', 'tax_id', 'updated_at']

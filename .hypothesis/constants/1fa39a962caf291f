@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\rest_framework\metadata.py
+# hypothesis_version: 6.151.5
+
+['POST', 'PUT', 'actions', 'boolean', 'check_permissions', 'child', 'children', 'choice', 'choices', 'date', 'datetime', 'decimal', 'description', 'display_name', 'email', 'field', 'fields', 'file upload', 'float', 'get_object', 'get_serializer', 'help_text', 'image upload', 'integer', 'label', 'list', 'max_length', 'max_value', 'min_length', 'min_value', 'multiple choice', 'name', 'nested object', 'parses', 'read_only', 'regex', 'renders', 'required', 'slug', 'string', 'time', 'type', 'url', 'value']

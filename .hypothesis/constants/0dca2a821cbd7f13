@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\django\core\serializers\__init__.py
+# hypothesis_version: 6.151.5
+
+[', ', 'BadSerializerModule', 'Deserializer', 'Serializer', 'dependencies', 'json', 'jsonl', 'natural_key', 'python', 'xml', 'yaml']

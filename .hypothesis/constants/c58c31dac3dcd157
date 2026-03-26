@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\openai\resources\beta\assistants.py
+# hypothesis_version: 6.151.5
+
+['/assistants', 'Assistants', 'AsyncAssistants', 'OpenAI-Beta', 'after', 'asc', 'assistants=v2', 'before', 'desc', 'description', 'instructions', 'limit', 'metadata', 'model', 'name', 'order', 'response_format', 'temperature', 'tool_resources', 'tools', 'top_p']

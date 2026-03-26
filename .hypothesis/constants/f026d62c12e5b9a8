@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\psycopg2\extensions.py
+# hypothesis_version: 6.151.5
+
+[b'(', b')', b', ', b'NULL', "'", "''", "([\\\\'])", '-', '\\\\\\1', '\\s', '_', 'database', 'dbname', 'prepare', '{}={}']

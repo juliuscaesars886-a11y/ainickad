@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\django\contrib\admin\__init__.py
+# hypothesis_version: 6.151.5
+
+['AdminSite', 'DateFieldListFilter', 'EmptyFieldListFilter', 'FieldListFilter', 'HORIZONTAL', 'ListFilter', 'ModelAdmin', 'ShowFacets', 'SimpleListFilter', 'StackedInline', 'TabularInline', 'VERTICAL', 'action', 'admin', 'autodiscover', 'display', 'register', 'site']

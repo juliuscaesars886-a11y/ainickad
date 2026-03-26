@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\Downloads\Ainick\ainick-backend-repo\communications\admin.py
+# hypothesis_version: 6.151.5
+
+[0.15, 0.6, 0.7, 0.8, 100, 200, 500, '-count', '</div>', '</ul>', 'Confidence', 'Context', 'Detailed Scores', 'Fast', 'Feature Information', 'Feedback', 'High', 'Low', 'Medium', 'Message', 'Metadata', 'Metrics Summary', 'OK', 'Performance', 'Processing Time', 'Slow', 'Status', 'System Metrics', 'all_scores', 'category', 'classes', 'classification_type', 'collapse', 'confidence_badge', 'confidence_score', 'content', 'context_data', 'count', 'created_at', 'date', 'description', 'feature_name', 'fields', 'green', 'id', 'is_active', 'is_broadcast', 'is_read', 'message', 'message_preview', 'metrics_summary', 'notification_type', 'orange', 'processing_time_ms', 'read_at', 'recipient', 'recipient__email', 'red', 'sender', 'sender__email', 'sent_at', 'subject', 'timestamp', 'title', 'user', 'user__email', 'user__full_name', 'user_feedback']

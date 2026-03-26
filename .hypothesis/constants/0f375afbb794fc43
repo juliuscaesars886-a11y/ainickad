@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\django\core\files\uploadedfile.py
+# hypothesis_version: 6.151.5
+
+[255, '.upload', '<%s: %s (%s)>', 'InMemoryUploadedFile', 'SimpleUploadedFile', 'UploadedFile', 'content', 'content-type', 'filename', 'text/plain']

@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\sqlparse\filters\aligned_indent.py
+# hypothesis_version: 6.151.5
+
+['(GROUP|ORDER)\\s+BY\\b', 'AND', 'BETWEEN', 'END', 'EXCEPT', 'FROM', 'HAVING', 'LIMIT', 'ON', 'OR', 'SELECT', 'SET', 'UNION', 'VALUES', 'WHERE', '_process_{cls}', 'case ', 'select', 'when ']

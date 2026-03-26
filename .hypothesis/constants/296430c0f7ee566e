@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\openai\resources\fine_tuning\jobs\__init__.py
+# hypothesis_version: 6.151.5
+
+['AsyncCheckpoints', 'AsyncJobs', 'Checkpoints', 'Jobs', 'JobsWithRawResponse']

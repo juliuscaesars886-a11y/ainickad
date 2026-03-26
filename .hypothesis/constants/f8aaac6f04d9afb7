@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\Downloads\Ainick\ainick-backend-repo\staff\admin.py
+# hypothesis_version: 6.151.5
+
+['Emergency Contact', 'Employment Details', 'Full Name', 'Metadata', 'Personal Details', 'Staff Information', 'Timestamps', 'address', 'classes', 'collapse', 'company', 'created_at', 'department', 'email', 'employment_status', 'fields', 'first_name', 'full_name', 'hire_date', 'id', 'job_title', 'last_name', 'metadata', 'phone', 'salary', 'staff_number', 'termination_date', 'updated_at', 'user']

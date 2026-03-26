@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\django\middleware\clickjacking.py
+# hypothesis_version: 6.151.5
+
+['DENY', 'X-Frame-Options', 'X_FRAME_OPTIONS']

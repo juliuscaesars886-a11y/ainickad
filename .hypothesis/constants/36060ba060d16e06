@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\django\contrib\postgres\fields\citext.py
+# hypothesis_version: 6.151.5
+
+['CI', 'CICharField', 'CIEmailField', 'CIText', 'CITextField', 'citext', 'fields.W905', 'fields.W906', 'fields.W907', 'hint', 'id', 'msg']

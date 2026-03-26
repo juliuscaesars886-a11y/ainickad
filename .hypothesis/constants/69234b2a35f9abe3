@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\openai\types\beta\vector_stores\vector_store_file.py
+# hypothesis_version: 6.151.5
+
+['ChunkingStrategy', 'LastError', 'VectorStoreFile', 'cancelled', 'completed', 'failed', 'in_progress', 'invalid_file', 'other', 'server_error', 'static', 'type', 'unsupported_file', 'vector_store.file']

@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\openai\resources\batches.py
+# hypothesis_version: 6.151.5
+
+['/batches', '/v1/chat/completions', '/v1/completions', '/v1/embeddings', '24h', 'AsyncBatches', 'Batches', 'after', 'completion_window', 'endpoint', 'input_file_id', 'limit', 'metadata']

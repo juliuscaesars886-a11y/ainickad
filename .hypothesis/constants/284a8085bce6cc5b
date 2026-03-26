@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\django\core\serializers\python.py
+# hypothesis_version: 6.151.5
+
+['fields', 'model', 'natural_key', 'pk']

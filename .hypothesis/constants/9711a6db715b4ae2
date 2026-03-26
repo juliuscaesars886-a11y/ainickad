@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\Downloads\Ainick\ainick-backend-repo\communications\ai_chat.py
+# hypothesis_version: 6.151.5
+
+[200, 400, 500, 503, '0.7', '1000', '30/hour', 'OPENAI_API_KEY', 'OPENAI_MAX_TOKENS', 'OPENAI_MODEL', 'OPENAI_TEMPERATURE', 'POST', 'assistant', 'chat', 'choices', 'content', 'data: [DONE]\n\n', 'delta', 'error', 'finish_reason', 'gpt-3.5-turbo', 'message', 'messages', 'role', 'system', 'text/event-stream', 'user']

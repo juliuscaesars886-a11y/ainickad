@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\Downloads\Ainick\ainick-backend-repo\communications\math_evaluator.py
+# hypothesis_version: 6.151.5
+
+['\x00POWER\x00', ' % ', ' )', ' * ', ' ** ', ' + ', ' - ', ' / ', '%', '(', '( ', ')', '*', '**', '+', '+-*/%', '-', '.', '/', '0', 'Division by zero', 'Empty expression', 'LPAREN', 'NUMBER', 'OPERATOR', 'Please give me', 'RPAREN', '__', 'class', "couldn't", 'def', 'divide by zero', 'eval', 'exec', 'import', 'lambda']

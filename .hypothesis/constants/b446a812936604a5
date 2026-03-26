@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\Downloads\Ainick\ainick-backend-repo\communications\serializers.py
+# hypothesis_version: 6.151.5
+
+['All Staff', 'Unknown', 'content', 'created_at', 'id', 'is_broadcast', 'is_read', 'is_reply', 'is_unread', 'message', 'metadata', 'notification_type', 'parent_message', 'read_at', 'recipient', 'recipient_name', 'related_entity_id', 'related_entity_type', 'sender', 'sender.full_name', 'sender_name', 'sent_at', 'subject', 'title', 'user']

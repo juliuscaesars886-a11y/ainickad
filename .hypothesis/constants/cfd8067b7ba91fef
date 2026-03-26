@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\Downloads\Ainick\ainick-backend-repo\workflows\models.py
+# hypothesis_version: 6.151.5
+
+[255, '-created_at', 'Approved', 'Cancelled', 'Completed', 'Document Approval', 'Draft', 'High', 'In Progress', 'Leave Request', 'Low', 'Medium', 'Other', 'Pending', 'Petty Cash', 'Purchase Request', 'Rejected', 'Review', 'To Do', 'Urgent', 'approvals', 'approved', 'approver', 'assigned_tasks', 'assignee', 'cancelled', 'companies.Company', 'company', 'completed', 'created_at', 'created_tasks', 'document_approval', 'draft', 'due_date', 'high', 'in_progress', 'leave', 'low', 'medium', 'other', 'pending', 'petty_cash', 'priority', 'purchase', 'rejected', 'request', 'request_type', 'requester', 'requests', 'review', 'status', 'step_number', 'tasks', 'todo', 'urgent']

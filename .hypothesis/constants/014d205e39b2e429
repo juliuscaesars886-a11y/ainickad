@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\Downloads\Ainick\ainick-backend-repo\communications\models.py
+# hypothesis_version: 6.151.5
+
+[255, '-created_at', '-sent_at', 'Approval Required', 'Deadline Approaching', 'Document Shared', 'Expense Approved', 'Expense Rejected', 'Message Received', 'Petty Cash Approved', 'Petty Cash Rejected', 'Status Changed', 'Task Assigned', 'approval_required', 'created_at', 'deadline_approaching', 'document_shared', 'expense_approved', 'expense_rejected', 'is_broadcast', 'is_read', 'message_received', 'messages', 'notification_type', 'notifications', 'parent_message', 'petty_cash_approved', 'petty_cash_rejected', 'received_messages', 'recipient', 'related_entity_id', 'related_entity_type', 'replies', 'self', 'sender', 'sent_at', 'sent_messages', 'status_changed', 'task_assigned', 'user']

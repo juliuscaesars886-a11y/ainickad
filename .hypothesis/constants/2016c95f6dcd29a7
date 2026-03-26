@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\openai\resources\__init__.py
+# hypothesis_version: 6.151.5
+
+['AsyncAudio', 'AsyncBatches', 'AsyncBeta', 'AsyncChat', 'AsyncCompletions', 'AsyncEmbeddings', 'AsyncFiles', 'AsyncFineTuning', 'AsyncImages', 'AsyncModels', 'AsyncModerations', 'AsyncUploads', 'Audio', 'AudioWithRawResponse', 'Batches', 'Beta', 'BetaWithRawResponse', 'Chat', 'ChatWithRawResponse', 'Completions', 'Embeddings', 'Files', 'FilesWithRawResponse', 'FineTuning', 'Images', 'Models', 'Moderations', 'Uploads']

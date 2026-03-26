@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\openai\types\audio\speech_create_params.py
+# hypothesis_version: 6.151.5
+
+['SpeechCreateParams', 'aac', 'alloy', 'echo', 'fable', 'flac', 'mp3', 'nova', 'onyx', 'opus', 'pcm', 'shimmer', 'wav']

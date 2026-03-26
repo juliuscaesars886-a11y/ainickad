@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\django\contrib\messages\constants.py
+# hypothesis_version: 6.151.5
+
+['DEBUG', 'ERROR', 'INFO', 'SUCCESS', 'WARNING', 'debug', 'error', 'info', 'success', 'warning']

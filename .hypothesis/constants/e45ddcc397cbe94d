@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\drf_spectacular\contrib\rest_auth.py
+# hypothesis_version: 6.151.5
+
+['JWTSerializer', 'JWT_AUTH_COOKIE', 'JWT_AUTH_HTTPONLY', 'JWT_SERIALIZER', 'REST_USE_JWT', 'TOKEN_SERIALIZER', 'TokenRefresh', 'TokenSerializer', 'apiKey', 'cookie', 'exclude', 'in', 'jwt-auth', 'jwtCookieAuth', 'jwtHeaderAuth', 'name', 'responses', 'type']

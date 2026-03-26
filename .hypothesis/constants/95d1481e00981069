@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\django_filters\widgets.py
+# hypothesis_version: 6.151.5
+
+[' class="selected"', '%s[]', ',', '0', '1', '</ul>', '<ul%s>', 'All', 'No', 'Unknown', 'Yes', '_', 'after', 'attrs', 'before', 'data', 'false', 'label', 'lookup', 'max', 'min', 'name', 'name="%s"', 'name=".*_%d"', 'query_string', 'subwidgets', 'true', 'widget']

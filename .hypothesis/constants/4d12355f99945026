@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\Downloads\Ainick\ainick-backend-repo\companies\migrations\0001_initial.py
+# hypothesis_version: 6.151.5
+
+[100, 254, 255, 'Companies', 'Company', 'address', 'companies', 'contact_email', 'contact_phone', 'created_at', 'db_table', 'id', 'indexes', 'is_active', 'logo_url', 'name', 'ordering', 'registration_number', 'settings', 'tax_id', 'updated_at', 'verbose_name_plural']

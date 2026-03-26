@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\Downloads\Ainick\ainick-backend-repo\staff\models.py
+# hypothesis_version: 6.151.5
+
+[100, '0.00', 'Active', 'On Leave', 'Suspended', 'Terminated', 'active', 'companies.Company', 'company', 'email', 'employment_status', 'first_name', 'last_name', 'on_leave', 'staff', 'staff_members', 'staff_number', 'suspended', 'terminated', 'unique_staff_number']

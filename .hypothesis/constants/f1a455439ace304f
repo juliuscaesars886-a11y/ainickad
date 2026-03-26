@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\django\contrib\auth\apps.py
+# hypothesis_version: 6.151.5
+
+['django.contrib.auth', 'last_login', 'update_last_login']

@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\Downloads\Ainick\ainick-backend-repo\documents\migrations\0001_initial.py
+# hypothesis_version: 6.151.5
+
+[100, 255, 500, '-created_at', '0001_initial', 'Certificate', 'Contract', 'Correspondence', 'Document', 'Invoice', 'Other', 'Report', 'authentication', 'category', 'certificate', 'companies', 'companies.company', 'company', 'contract', 'correspondence', 'created_at', 'db_table', 'description', 'documents', 'file_name', 'file_path', 'file_size', 'id', 'indexes', 'invoice', 'is_archived', 'metadata', 'mime_type', 'ordering', 'other', 'report', 'title', 'updated_at', 'uploaded_by', 'uploaded_documents']

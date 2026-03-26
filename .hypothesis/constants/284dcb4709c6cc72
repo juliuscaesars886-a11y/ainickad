@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\Downloads\Ainick\ainick-backend-repo\communications\classifier.py
+# hypothesis_version: 6.151.5
+
+[0.0, 0.15, 0.2, 0.25, 0.5, 0.55, 0.6, 0.7, 0.75, 0.8, 1.0, 100, 500, '!', '?', 'Can you assist me?', 'Can you clarify?', 'Can you explain?', 'Can you help me?', 'Company_Data', 'Feature_Guide', 'I need help', "I'm having trouble", "I'm lost", "I'm not sure", 'Kenya_Governance', 'Navigation', 'Tip', 'Web_Search', 'What does this mean?', 'What is this for?', 'What should I do?', 'admin', 'brs', 'cma', 'english', 'kra', 'my company', 'none', 'nse', 'our board', 'our directors', 'permissions', 'roles', 'users', '→', '⊕', '◈', '⚖']

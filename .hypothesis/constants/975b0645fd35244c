@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\openai\resources\files.py
+# hypothesis_version: 6.151.5
+
+[5.0, '/files', 'Accept', 'AsyncFiles', 'Content-Type', 'Files', 'application/binary', 'assistants', 'batch', 'deleted', 'error', 'file', 'fine-tune', 'multipart/form-data', 'processed', 'purpose', 'vision']

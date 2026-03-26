@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\openai\resources\beta\vector_stores\vector_stores.py
+# hypothesis_version: 6.151.5
+
+['/vector_stores', 'AsyncVectorStores', 'OpenAI-Beta', 'VectorStores', 'after', 'asc', 'assistants=v2', 'before', 'chunking_strategy', 'desc', 'expires_after', 'file_ids', 'limit', 'metadata', 'name', 'order']

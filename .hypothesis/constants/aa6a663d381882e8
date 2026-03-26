@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\django\contrib\contenttypes\views.py
+# hypothesis_version: 6.151.5
+
+['%s://%s%s', '//', 'ct_id', 'ct_name', 'django.contrib.sites', 'http://', 'https://', 'obj_id', 'sites.Site']

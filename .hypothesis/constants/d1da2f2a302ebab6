@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\drf_spectacular\generators.py
+# hypothesis_version: 6.151.5
+
+['.', '/', 'CONNECT', 'HEAD', 'OPTIONS', 'TRACE', '\\.', '^', '__class__', 'actions', 'api_version', 'errors', 'http_method_names', 'kwargs', 'schema', 'version', 'warnings', '{(\\w+)_pk}', '{\\1_id}']

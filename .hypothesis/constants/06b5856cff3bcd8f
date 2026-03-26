@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\django\db\migrations\recorder.py
+# hypothesis_version: 6.151.5
+
+[255, 'Migration %s for %s', 'django_migrations', 'migrations']

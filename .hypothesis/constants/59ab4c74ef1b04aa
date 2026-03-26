@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\openai\resources\moderations.py
+# hypothesis_version: 6.151.5
+
+['/moderations', 'AsyncModerations', 'Moderations', 'input', 'model']

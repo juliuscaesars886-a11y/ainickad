@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\django\db\models\functions\mixins.py
+# hypothesis_version: 6.151.5
+
+[1000, 'CAST(%s AS SIGNED)', 'DurationField']

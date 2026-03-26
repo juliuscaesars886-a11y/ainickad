@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\Downloads\Ainick\ainick-backend-repo\companies\serializers.py
+# hypothesis_version: 6.151.5
+
+['active', 'address', 'appointment_date', 'company', 'company.name', 'company_name', 'contact_email', 'contact_phone', 'created_at', 'document_count', 'id', 'is_active', 'is_current', 'logo_url', 'metadata', 'name', 'position', 'registration_number', 'resignation_date', 'risk_category', 'risk_level', 'settings', 'status', 'tax_id', 'updated_at', 'user_count']

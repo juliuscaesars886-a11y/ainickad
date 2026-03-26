@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\AppData\Roaming\Python\Python313\site-packages\openai\types\chat\chat_completion.py
+# hypothesis_version: 6.151.5
+
+['ChatCompletion', 'Choice', 'ChoiceLogprobs', 'chat.completion', 'content_filter', 'default', 'function_call', 'length', 'scale', 'stop', 'tool_calls']

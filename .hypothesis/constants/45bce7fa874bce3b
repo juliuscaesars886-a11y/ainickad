@@ -1,0 +1,4 @@
+# file: C:\Users\ETM\Downloads\Ainick\ainick-backend-repo\authentication\migrations\0001_initial.py
+# hypothesis_version: 6.151.5
+
+[254, 255, '-created_at', '0001_initial', 'Accountant', 'Admin', 'Employee', 'Super Admin', 'UserProfile', 'accountant', 'admin', 'avatar_url', 'companies', 'companies.company', 'company', 'created_at', 'db_table', 'email', 'employee', 'full_name', 'id', 'indexes', 'is_active', 'metadata', 'ordering', 'role', 'super_admin', 'updated_at', 'user_profiles', 'users']
